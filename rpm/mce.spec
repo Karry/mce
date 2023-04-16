@@ -1,6 +1,6 @@
 Name:       mce
 Summary:    Mode Control Entity for Nokia mobile computers
-Version:    1.111.0
+Version:    1.115.2
 Release:    1
 Group:      System/System Control
 License:    LGPLv2
@@ -19,7 +19,7 @@ BuildRequires:  pkgconfig(dsme) >= 0.65.0
 BuildRequires:  pkgconfig(thermalmanager_dbus_if)
 BuildRequires:  pkgconfig(libiphb)
 BuildRequires:  pkgconfig(glib-2.0) >= 2.36.0
-BuildRequires:  pkgconfig(mce) >= 1.30.0
+BuildRequires:  pkgconfig(mce) >= 1.32.0
 BuildRequires:  pkgconfig(libngf0) >= 0.24
 BuildRequires:  pkgconfig(libsystemd)
 BuildRequires:  kernel-headers >= 2.6.32
